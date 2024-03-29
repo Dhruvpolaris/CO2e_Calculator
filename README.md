@@ -2,7 +2,7 @@
 
 This repository contains a simple web-based CO2e (Carbon Dioxide Equivalent) Calculator. It allows users to select a greenhouse gas and input a volume in pounds to calculate the CO2e.
 
-##Project Link - https://dhruvpolaris.github.io/CO2e_Calculator/
+## Project Link - https://dhruvpolaris.github.io/CO2e_Calculator/
 
 
 ## Features
